@@ -4,4 +4,7 @@
     <color name="color_primary">@*android:color/primary_device_default_settings_light</color>
     <color name="grid_bg_color">@color/material_grey_200</color>
     <color name="material_grey_200">#ffeeeeee</color>
+    <color name="system_secondary_color">@color/system_primary_color</color>
+    <color name="system_primary_color">@color/color_primary</color>
+    <color name="system_accent_color">@*android:color/accent_device_default_light</color>
 </resources>

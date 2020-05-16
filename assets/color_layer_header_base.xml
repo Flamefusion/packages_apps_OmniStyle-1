@@ -20,11 +20,10 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="nature03" />
-    <random_header image="nature16" />
-    <random_header image="nature17" />
-    <random_header image="nature18" />
-    <random_header image="nature19" />
-    <random_header image="nature20" />
-    <random_header image="nature21" />
+    <hour_header hour="6" image="color_layer_header" />
+    <hour_header hour="9" image="color_layer_header" />
+    <hour_header hour="11" image="color_layer_header" />
+    <hour_header hour="13" image="color_layer_header" />
+    <hour_header hour="19" image="color_layer_header" />
+    <hour_header hour="21" image="color_layer_header" />
 </daylight_headers>
