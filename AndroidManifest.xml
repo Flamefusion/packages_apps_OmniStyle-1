@@ -372,7 +372,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 		</activity>
 		<activity
 			android:name=".rr3"
-			android:label="RR-3" >
+			android:label="RR Progress" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 
